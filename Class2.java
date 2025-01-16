@@ -17,4 +17,8 @@ public class Class2 {
         // v3.1 (Fix a bug in the system)
     }
 
+    private void f4() {
+        // v4.1 (Finished Development)
+    }
+
 }
